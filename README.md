@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/barisatalay/bottom-dialog.svg)](https://jitpack.io/#barisatalay/bottom-dialog)
+
 # Bottom-Dialog
 Bottom Dynamic Dialog for Android Projects
 
