@@ -1,4 +1,5 @@
 [![](https://jitpack.io/v/barisatalay/bottom-dialog.svg)](https://jitpack.io/#barisatalay/bottom-dialog)
+[![Android Arsenal]( https://img.shields.io/badge/Android%20Arsenal-Bottom%20Dynamic%20Dialog-green.svg?style=flat )]( https://android-arsenal.com/details/1/7784 )
 
 # Bottom-Dialog
 Bottom Dynamic Dialog for Android Projects
